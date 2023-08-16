@@ -1,7 +1,7 @@
 # Тестовое задание
 
 [Вакансия на HH](https://hh.ru/vacancy/83638236)  
-[Репозиторий тестового](https://hh.ru/vacancy/83638236)
+[Репозиторий тестового](https://github.com/matemaaan/testtask)
 
 ## Задание 1
 
